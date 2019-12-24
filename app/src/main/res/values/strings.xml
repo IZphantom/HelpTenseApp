@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HelpTense</string>
+    <string name="title_home">Поиск</string>
+    <string name="title_dashboard">Глаголы</string>
+    <string name="title_notifications">Личный кабинет</string>
+    <string name="hint">Введите глагол</string>
+    <string name="button">Поиск</string>
+    <string name="password">password</string>
+    <string name="login">login</string>
+    <string name="join">Войти</string>
+    <string name="textview">TextView</string>
+</resources>
